@@ -1,3 +1,3 @@
-# skin-Nss
+# skin-nonsolosat
 ===============
 skin-mmmark dreamy
